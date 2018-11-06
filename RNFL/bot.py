@@ -562,4 +562,4 @@ async def on_message(message):
 
 
 #CLIENT KEY
-client.run("NTAzNjY5ODY0MTkyMjc4NTMx.Dq52rA.IpWicVcw8O2NaJJ3-oJHudJhT94")
+client.run(str(os.environ.get('NTAzNjY5ODY0MTkyMjc4NTMx.Dq52rA.IpWicVcw8O2NaJJ3-oJHudJhT94')))
